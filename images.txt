@@ -1,5 +1,6 @@
 #tugraph/tugraph-runtime-centos7:latest
-vesoft/nebula-importer:latest
+#vesoft/nebula-importer:latest
+ubuntu:20.04
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
